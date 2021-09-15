@@ -4,7 +4,7 @@ Ans: .gitignore file will be at the root folder of the repo and we have add the 
 
 2.What does fast-forward in Git mean?
 
-Ans: Merging the changes of another branch to your local branch without any conflcits is a fast forward.  In case of any conflicts raised during merge we have to resolve those conflicts and continue the merge process
+Ans: Merging the changes of another branch to your local branch without any conflcits is a fast forward. As only a few commits will be there so there will be no issue for conflicts right
 
 3.Why should you have different branches?
 
