@@ -4,7 +4,7 @@ Ans: .gitignore file will be at the root folder of the repo and we have add the 
 
 2.What does fast-forward in Git mean?
 
-Ans: Merging the changes of another branch to your local branch without any conflcits is a fast forward
+Ans: Merging the changes of another branch to your local branch without any conflcits is a fast forward.  In case of any conflicts raised during merge we have to resolve those conflicts and continue the merge process
 
 3.Why should you have different branches?
 
@@ -12,4 +12,4 @@ Ans: To avoid frequent conflicts between members and let indiviual be responsibl
 
 4. In a project how many remote Git repositories do you usually have?
 
-Ans: It not limited to a number. Based on feasibility of project a team can create more than 1 repo.
+Ans: It not limited to a number. Based on requirment of project a team can create more than 1 repo.
